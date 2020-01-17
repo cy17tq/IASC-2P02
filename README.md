@@ -1,2 +1,3 @@
-# IASC-2P02
-Repository for IASC 2P02 course. WInter 2020. 
+# Hello World!
+
+This is the reading file for my IASC 2P02 web portfolio.
