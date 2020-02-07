@@ -7,4 +7,5 @@ I am a student studying Interactive Arts and Science. This is my portfolio site.
 
 ## Blog Post 
 
-First sentence of blog post goes here. 
+First sentence of blog post goes here. [Continue reading...](blog)
+ 
