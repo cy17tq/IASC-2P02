@@ -1,3 +1,10 @@
-# Hello World!
+# IASC 2P02 | Caitlin Yau 
 
-This is the reading file for my IASC 2P02 web portfolio.
+## About me
+I am a student studying Interactive Arts and Science. This is my portfolio site. 
+
+![](imagez/cat.jpg)
+
+##Blog Post 
+
+First sentence of blog post goes here. 
