@@ -23,11 +23,13 @@ Feel free to change the height and width values or other styling below: -->
 
 <p>To conclude, the visualization of cultural phenomena is something beneficial to the department of digital humanities. The visualization of cultural phenomena creates a different perspective for users to experience, and it is a critical factor in differentiating digital humanities from science and humanities. The use of data visualization should be used to create a multimodal scholarship for both students and researchers to look into since it provides a deeper understanding of both text and data that is provided while researching digital humanities.</p>
 
-<p><i>Work Cited:</i>
--	Alvarado, R. C. (n.d.). The Digital Humanities Situation. Retrieved March 8, 2020, from https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c513af64-8f99-4e02-9869-babc1cecc451#p1b1
--	Braun, S. (2018, December 4). Critically engaging with data visualization through an information literacy framework. Retrieved March 8, 2020, from http://digitalhumanities.org:8081/dhq/vol/12/4/000402/000402.html#p16
--	Drucker, J. (2011, May 1). Humanities Approaches to Graphical Display. Retrieved March 8, 2020, from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
--	Kirschenbaum, M. (n.d.). Debates in the Digital Humanities: Chapter 1: What Is Digital Humanities and What's It Doing in English Departments?: Matthew Kirschenbaum. Retrieved March 8, 2020, from https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/f5640d43-b8eb-4d49-bc4b-eb31a16f3d06
--	Moretti, F. (n.d.). Graphs, Maps, Trees. Retrieved March 8, 2020, from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf 
+<p><i>Work Cited:</i></p>
+<p>
+<ul>
+ <li>Alvarado, R. C. (n.d.). The Digital Humanities Situation. Retrieved March 8, 2020, from https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c513af64-8f99-4e02-9869-babc1cecc451#p1b1</li>
+ <li>Braun, S. (2018, December 4). Critically engaging with data visualization through an information literacy framework. Retrieved March 8, 2020, from http://digitalhumanities.org:8081/dhq/vol/12/4/000402/000402.html#p16</li>
+ <li>Drucker, J. (2011, May 1). Humanities Approaches to Graphical Display. Retrieved March 8, 2020, from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</li>
+ <li>Kirschenbaum, M. (n.d.). Debates in the Digital Humanities: Chapter 1: What Is Digital Humanities and What's It Doing in English Departments?: Matthew Kirschenbaum. Retrieved March 8, 2020, from https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/f5640d43-b8eb-4d49-bc4b-eb31a16f3d06</li>
+ <li>Moretti, F. (n.d.). Graphs, Maps, Trees. Retrieved March 8, 2020, from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf</li>
 </p>
 
