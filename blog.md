@@ -31,5 +31,6 @@ Feel free to change the height and width values or other styling below: -->
  <li>Drucker, J. (2011, May 1). Humanities Approaches to Graphical Display. Retrieved March 8, 2020, from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html</li>
  <li>Kirschenbaum, M. (n.d.). Debates in the Digital Humanities: Chapter 1: What Is Digital Humanities and What's It Doing in English Departments?: Matthew Kirschenbaum. Retrieved March 8, 2020, from https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/f5640d43-b8eb-4d49-bc4b-eb31a16f3d06</li>
  <li>Moretti, F. (n.d.). Graphs, Maps, Trees. Retrieved March 8, 2020, from https://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf</li>
-
+</ul>
+</p>
 
